@@ -1,0 +1,3 @@
+Deployed (proxy) address is: 0x1795b26F68bDA58B9eb16C377759f06525C9Ff11
+Deployed (base / internal) address is: 0x422D47D6bFe72c2A8f4a698b1E5a21363d2aDf7C
+Deployed network: ropsten
